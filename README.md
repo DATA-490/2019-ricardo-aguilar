@@ -1,5 +1,5 @@
 # Football Pool app
-* **Author**: Ricardo Aguilar, github: [raguilar11](raguilar11)
+* **Author**: Ricardo Aguilar, github: [raguilar11](https://github.com/raguilar11)
 * **Major**: Statistics
 * **Year**: 2019
 
@@ -18,7 +18,6 @@ To provide mobile data entry and game tracking form for low-key football pools.
     - Display Output: Schedule for the week
     - Data input: Button selector choice for user to select the team they think will win
 
-
 # Completion status 
 Not complete. Pending steps include: 
 
@@ -32,5 +31,11 @@ Not complete. Pending steps include:
 - [ ] User performance graphs (% correct by week)
 - [ ] Ranking among other pool members
 
-# Available for 
+# Can someone else pick up this project? 
 Yes
+
+# Public Display/dissemination
+None
+
+# License
+None
