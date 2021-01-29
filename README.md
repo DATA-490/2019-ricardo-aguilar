@@ -31,7 +31,7 @@ Not complete. Pending steps include:
 - [ ] User performance graphs (% correct by week)
 - [ ] Ranking among other pool members
 
-# Can someone else pick up this project? 
+# Can someone else work on this project? 
 Yes
 
 # Public Display/dissemination
